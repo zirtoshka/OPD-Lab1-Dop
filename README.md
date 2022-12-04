@@ -1,6 +1,6 @@
 # OPD-Lab1-Dop
-The best DOP forever
-Порядок действий:
+# The best DOP forever<br />
+# Порядок действий:<br />
 1 - sh task_0-5_done.sh<br />
 2 - sh clean.sh <br />
 3 - cat tps <br />
